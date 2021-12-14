@@ -13,5 +13,6 @@ I have built a few projects using these learnings. Below is a list of my project
 You can reach me on below platforms
 
 Email: pgodse97@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/prathmesh-godse/
 
