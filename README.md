@@ -9,6 +9,8 @@ I have built a few projects using these learnings. Below is a list of my project
 
 👉 Order Summary Component: https://prathmeshgodse.github.io/order-summary-component-main/
 
+👉 React Monster Search App: https://prathmeshgodse.github.io/monster-search/
+
 
 You can reach me on below platforms
 
