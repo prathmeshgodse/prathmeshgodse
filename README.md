@@ -3,6 +3,8 @@
 I'm intrested in front-end development and learning different technologies involved in the front-end development domain.
 I have built a few projects using these learnings. Below is a list of my projects, do check them out 😉
 
+👉 Employee Table: https://prathmeshgodse.github.io/react-employee-list-app/
+
 👉 To-do list: https://prathmeshgodse.github.io/todo-app-main/
 
 👉 Tip Calculator: https://prathmeshgodse.github.io/tip-calculator-app-main/
