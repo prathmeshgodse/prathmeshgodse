@@ -1,7 +1,7 @@
 👋 Hi! I'm Prathmesh Godse. 
 
 I'm intrested in front-end development and learning different technologies involved in the front-end development domain.
-I have built a few projects using these learnings. Below is a list of my projects, do check them out 😉
+I have built a few projects using these learnings. Below is a list of my projects, do check them out :D
 
 👉 E-Commerce Website: https://crwn-apparels.netlify.app/
 
